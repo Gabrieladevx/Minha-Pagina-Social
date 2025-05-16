@@ -19,10 +19,6 @@ A página apresenta:
 - Uma introdução sobre quem sou eu.
 - Links para minhas redes sociais, incluindo GitHub, Instagram e LinkedIn.
 
-## Como Visualizar
-
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` em qualquer navegador web.
 
 ## Contato
 
